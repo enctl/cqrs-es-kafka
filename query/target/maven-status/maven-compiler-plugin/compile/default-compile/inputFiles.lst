@@ -1,0 +1,10 @@
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/conf/EventHandlerUtils.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/conf/EventMessagingConfigurer.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/model/ProfileCredentials.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/dao/ProfileDao.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/messaging/EventHandler.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/QueryContext.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/conf/EventMessagingConsumer.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/handler/ProfileRegisteredEventHandler.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/model/QueryableProfile.java
+/Users/naware/Development/code/cqrs-es-kafka/query/src/main/java/io/acme/solution/query/dao/ProfileCredentialsDao.java

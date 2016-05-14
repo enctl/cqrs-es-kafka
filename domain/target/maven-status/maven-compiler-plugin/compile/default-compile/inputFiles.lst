@@ -1,0 +1,9 @@
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/api/repo/ProfileRepository.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/AggregateMemento.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/api/EventHandler.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/event/profile/ProfileRegisteredEvent.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/Profile.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/Event.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/api/EventEmitter.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/util/MementoBuilder.java
+/Users/naware/Development/code/cqrs-es-kafka/domain/src/main/java/io/acme/solution/domain/BaseAggregate.java

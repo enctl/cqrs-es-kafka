@@ -1,0 +1,6 @@
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/application/conf/CommandHandlerUtils.java
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/application/handler/RegisterNewUserProfileCommandHandler.java
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/ApplicationBootstrap.java
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/application/conf/CommandMessagingConfigurer.java
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/application/messaging/CommandHandler.java
+/Users/naware/Development/code/cqrs-es-kafka/application/src/main/java/io/acme/solution/application/conf/CommandMessagingConsumer.java

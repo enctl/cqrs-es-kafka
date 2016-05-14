@@ -1,0 +1,13 @@
+io/acme/solution/api/command/Command.class
+io/acme/solution/api/bundle/MessageKeys$UserProfile.class
+io/acme/solution/api/validation/UserProfileValidator.class
+io/acme/solution/api/command/RegisterNewUserProfileCommand.class
+io/acme/solution/api/bundle/MessageKeys.class
+io/acme/solution/api/conf/CommandMessagingConfigurer.class
+io/acme/solution/api/bundle/RESTKeys$Profile.class
+io/acme/solution/api/broker/CommandPublisher.class
+io/acme/solution/api/model/UserProfile.class
+io/acme/solution/api/app/ProfileApplication.class
+io/acme/solution/api/ApplicationApiBootstrap.class
+io/acme/solution/api/bundle/RESTKeys.class
+io/acme/solution/api/model/CommandPromise.class
