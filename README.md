@@ -1,9 +1,8 @@
-# Building Scalable Application
-## ACME-Solution Reference Implementation
+# Elastic Applications with Apache Kafka
+## Sample Implementation
 
-The purpose of this repository is to provide a reference implementation for a sample application called ACME-Solution
-which is used as a sample application that should be built in a scalable way. The detailed description for the application architecture
-and the styles underpinning it, please check my [blog](https://architectworks.ghost.io/) on Ghost.io
+The purpose of this repository is to provide a reference implementation for a sample application that demonstrates the usage of Apache Kafka.
+The detailed description for the application architecture and the styles underpinning it, please check my [blog](https://architectworks.ghost.io/distributed-applications-with-kafka/) on Ghost.io
 
 ## Architectural Styles
 The implementation adapts the following architectural styles:
@@ -15,10 +14,9 @@ The implementation adapts the following architectural styles:
 ## Technology
 The application uses the following set of light-weight technologies and frameworks:
 
-1. RabbitMQ for Messaging
+1. Apache Kafka for Messaging
 2. MongoDB for Persistence
 3. Spring MVC for REST Services
-4. Spring AMQP for Queueing and Messaging
 4. Spring Data for Data Access Objects
 5. Spring Boot for Bootstrapping and Boilerplates
 
@@ -27,12 +25,12 @@ Before running the above application, you'll need to install the following on yo
 
 1. Maven 3.0.3 or later
 2. MongoDB, I used v3.2 at the time of this implementation
-3. RabbitMQ, I used v3.6 at the time of this implementation.
+3. Apache Kafka v0.9 or later
 
 If you have a Mac OS, you can install the above components using [Homebrew](http://brew.sh/). The following commands install the above:
 ```
 $ brew install maven
-$ brew install rabbitmq
+$ brew install kafka
 $ brew install mongodb
 ```
 
@@ -48,7 +46,7 @@ You can start it by navigating to its subdirectory and type: `mvn spring-boot:ru
 You can start it by navigating to its subdirectory and type: `mvn spring:boot:run`
 
 ## Variations
-The above steps assume the default settings for Mongo and Rabbit. If you could like to change any of those settings, please
+The above steps assume the default settings for Mongo and Kafka. If you could like to change any of those settings, please
 navigate to `application.properties` file that you'll find under each of the three applications above and then change the proper
 values and re-run it again.
 
@@ -66,7 +64,7 @@ The command part can be tested by POSTing a JSON message to the following REST e
 As for the query part, you can test it by GET the following REST endpoint:
  `http://localhost:9090/profiles`
 
-You can also check the messages as it passes through Rabbit using the Rabbit Admin console
+You can also check the messages as it passes through Kafka using the `./topic-console-consumer` utility
 
 
 
