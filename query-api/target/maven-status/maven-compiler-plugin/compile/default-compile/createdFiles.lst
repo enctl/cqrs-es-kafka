@@ -1,0 +1,4 @@
+io/acme/solution/query/api/app/ProfileQueryApplication.class
+io/acme/solution/query/api/bundle/RESTKeys$Profile.class
+io/acme/solution/query/api/bundle/RESTKeys.class
+io/acme/solution/query/QueryApiBootstrap.class

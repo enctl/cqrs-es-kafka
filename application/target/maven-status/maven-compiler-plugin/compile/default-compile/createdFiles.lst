@@ -1,0 +1,7 @@
+io/acme/solution/application/conf/CommandHandlerUtils.class
+io/acme/solution/application/conf/CommandMessagingConsumer$1.class
+io/acme/solution/application/handler/RegisterNewUserProfileCommandHandler.class
+io/acme/solution/ApplicationBootstrap.class
+io/acme/solution/application/messaging/CommandHandler.class
+io/acme/solution/application/conf/CommandMessagingConfigurer.class
+io/acme/solution/application/conf/CommandMessagingConsumer.class

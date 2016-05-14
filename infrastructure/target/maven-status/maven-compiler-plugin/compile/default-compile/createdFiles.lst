@@ -1,0 +1,10 @@
+io/acme/solution/infrastructure/dao/EventEmitterDao.class
+io/acme/solution/infrastructure/dao/model/PersistentEventEmitter.class
+io/acme/solution/infrastructure/dao/model/PersistentSnapshot.class
+io/acme/solution/infrastructure/conf/EventMessagingConfigurer.class
+io/acme/solution/infrastructure/repo/ProfileRepositoryImpl.class
+io/acme/solution/infrastructure/InfrastructureContext.class
+io/acme/solution/infrastructure/dao/model/PersistentEvent.class
+io/acme/solution/infrastructure/broker/EventPublisher.class
+io/acme/solution/infrastructure/dao/EventDao.class
+io/acme/solution/infrastructure/dao/SnapshotDao.class

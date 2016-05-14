@@ -1,0 +1,11 @@
+io/acme/solution/domain/AggregateMemento.class
+io/acme/solution/domain/api/EventHandler.class
+io/acme/solution/domain/Profile.class
+io/acme/solution/domain/event/profile/ProfileRegisteredEvent.class
+io/acme/solution/domain/Profile$1.class
+io/acme/solution/domain/api/repo/ProfileRepository.class
+io/acme/solution/domain/BaseAggregate.class
+io/acme/solution/domain/Profile$ProfileRegisteredEventHandler.class
+io/acme/solution/domain/api/EventEmitter.class
+io/acme/solution/domain/util/MementoBuilder.class
+io/acme/solution/domain/Event.class
