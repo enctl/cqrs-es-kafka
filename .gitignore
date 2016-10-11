@@ -125,3 +125,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+application/target
+application-api/target
+domain/target
+infrastructure/target
+query/target
+query-api/target
+
