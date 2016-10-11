@@ -47,7 +47,7 @@
         </dependency>
         <dependency>
             <groupId>io.ghost.architectworks</groupId>
-            <artifactId>command</artifactId>
+            <artifactId>infrastructure</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
